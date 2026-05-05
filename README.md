@@ -58,7 +58,7 @@ team-task-manager/
 ### 1. Clone & install
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/omm003/team-task-manager.git>
 cd team-task-manager
 npm run install:all
 ```
